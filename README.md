@@ -1,4 +1,4 @@
-# HTML-CSS-Exercises
+# HTMLExercises
 Basic exercises using HTML.
 
 
